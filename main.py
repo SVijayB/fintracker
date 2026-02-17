@@ -1,5 +1,5 @@
 def main():
-    print("Hello from repo-template!")
+    print("Hello from fintracker!")
 
 
 if __name__ == "__main__":

@@ -1,7 +1,7 @@
 [project]
-name = "repo-template"
+name = "fintracker"
 version = "0.1.0"
-description = "Add your description here"
+description = "Easy to use finanace tracker for all chase transactions"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
